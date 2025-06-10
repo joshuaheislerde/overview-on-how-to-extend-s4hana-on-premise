@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Seite-1" id="HOBaP255z5BMrv29hb8l">
-    <mxGraphModel dx="2895" dy="3539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#cfecff, #121212)" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="4274" dy="4340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#cfecff, #121212)" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <object label="Background" id="1">
@@ -58,11 +58,9 @@
         <mxCell id="UCTJfK6FL2X2yHmTDqah-351" value="Developer Extensibility" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=light-dark(#ffffff, #ededed);fillColor=none;strokeWidth=1.5;fontColor=light-dark(#ffffff, #44a0ff);fontStyle=1;fontSize=17;" parent="K0xaSfkfl29_AA-YeCkV-265" vertex="1">
           <mxGeometry x="30" y="34" width="240" height="46" as="geometry" />
         </mxCell>
-        <UserObject label="Custom Business Configuration" link="https://help.sap.com/docs/btp/sap-business-technology-platform/dev-in-abap-env-business-configuration" linkTarget="_blank" id="UVijQG4dHbBtXb40Kbe8-10">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-265" vertex="1">
-            <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="UVijQG4dHbBtXb40Kbe8-10" value="Custom Business Configuration" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-265" vertex="1">
+          <mxGeometry x="160" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-268" value="" style="group;opacity=80;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1" connectable="0">
           <mxGeometry x="1263" y="166" width="300" height="1530" as="geometry" />
         </mxCell>
@@ -296,85 +294,57 @@
             <mxGeometry x="644" y="356" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="SAPUI5 Flexibility: Developer Adaption" link="https://help.sap.com/docs/UI5_FLEXIBILITY/430e2c1a4ff241bc8162df4bf51e0730/a3e9d764dc8841468f73fd7cabc07cec.html" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-330">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="964" y="356" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Dynpro: Screen Enhancement (BAdI) / Modification" link="https://help.sap.com/docs/SAP_NETWEAVER_750/46a2cfc13d25463b8b9a3d2a3c3ba0d9/c1133442d692af04e10000000a1550b0.html?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-331">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1284" y="356" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="WebDynpro: Screen Enhancement (BAdI) / Modification" link="https://help.sap.com/docs/SAP_NETWEAVER_750/46a2cfc13d25463b8b9a3d2a3c3ba0d9/c1133442d692af04e10000000a1550b0.html?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-332">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1424" y="356" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SAP Screen Personas" link="https://help.sap.com/docs/SAP_SCREEN_PERSONAS?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-333">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1104" y="356" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-330" value="SAPUI5 Flexibility: Developer Adaption" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="964" y="356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-331" value="Dynpro: Screen Enhancement (BAdI) / Modification" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1284" y="356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-332" value="WebDynpro: Screen Enhancement (BAdI) / Modification" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1424" y="356" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-333" value="SAP Screen Personas" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1104" y="356" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-334" value="SAP Fiori App" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="962.5" y="436" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="SAP Build Apps&lt;br&gt;SAP Mobile Services&lt;br&gt;UI5 Web Components" link="https://help.sap.com/docs/BUILD_APPS" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-338">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1742" y="436" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SAP Fiori Launchpad" link="https://help.sap.com/docs/SAP_FIORI_LAUNCHPAD?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-339">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="962.5" y="516" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SAP Build Work Zone" link="https://help.sap.com/viewer/product/WZ/Cloud/en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-340">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1603" y="516" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SAP Task Center&lt;br&gt;SAP Start&lt;br&gt;SAP Mobile Start" link="https://help.sap.com/viewer/product/TASK_CENTER/Cloud/en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-341">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1744" y="516" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Output control framework" link="https://help.sap.com/docs/ABAP_PLATFORM_NEW/30eef4341efd4a2c86f2f98f187eccb3/da488f76078447b0b42792226cfcf9b1.html?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-342">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="644" y="596" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="NAST based framework" link="https://help.sap.com/docs/SAP_ERP/3fd23d9ccf67436590e7d36e94f52ab6/ff58e883f35e40218f6cb68bd06dc574.html?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-343">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1284" y="596" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SAP Forms Service" link="https://help.sap.com/docs/forms-service-by-adobe/sap-forms-service-cf/sap-forms-service-by-adobe?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-344">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1604" y="676" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="RAP Data Services for Print Forms" link="https://help.sap.com/docs/btp/sap-business-technology-platform/rap-data-services-for-print-forms?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-345">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="962.5" y="676" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-338" value="SAP Build Apps&lt;br&gt;SAP Mobile Services&lt;br&gt;UI5 Web Components" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1744" y="436" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-339" value="SAP Fiori Launchpad" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="962.5" y="516" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-340" value="SAP Build Work Zone" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1604" y="516" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-341" value="SAP Task Center&lt;br&gt;SAP Start&lt;br&gt;SAP Mobile Start" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1744" y="516" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-342" value="Output control framework" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="644" y="596" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-343" value="NAST based framework" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1284" y="596" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-344" value="SAP Forms Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1604" y="676" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-345" value="RAP Data Services for Print Forms" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="962.5" y="676" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-346" value="Custom Print Program with&lt;br&gt;custom Form" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="1284" y="676" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-347" value="Create E-Mail with Reuse-Components of ABAP Cloud" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="1104" y="676" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="Create E-Mail with Reuse-Components of ABAP Cloud / SAP Cloud SDK" link="https://help.sap.com/docs/btp/sap-business-technology-platform/integration-and-connectivity-sending-mails-using-smtp" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-348">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1741" y="676" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Custom Fields App" link="https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/57909455bf7c4fdd8bcf48d76c1eae33.html?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-349">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="644" y="756" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-348" value="Create E-Mail with Reuse-Components of ABAP Cloud / SAP Cloud SDK" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1741" y="676" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-349" value="Custom Fields App" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="644" y="756" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-350" value="Dynpro: Screen Enhancement (BAdI)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="1284" y="756" width="120" height="60" as="geometry" />
         </mxCell>
@@ -384,163 +354,105 @@
         <mxCell id="K0xaSfkfl29_AA-YeCkV-352" value="Custom Logic App (BAdI)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="644" y="836" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="ABAP BAdIs (released)" link="https://api.sap.com/products/SAPS4HANACloud/developerextensibility/badi" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-353">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="962.5" y="836" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="ABAP BAdIs (SE18/SE19)" link="https://help.sap.com/doc/saphelp_nw75/7.5.5/en-US/ee/6f3b42ea85b26be10000000a155106/frameset.htm" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-354">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1284" y="836" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-353" value="ABAP BAdIs (released)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="962.5" y="836" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-354" value="ABAP BAdIs (SE18/SE19)" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1284" y="836" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-355" value="User Exits /&lt;div&gt;Modification&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="1424" y="836" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="Cloud Foundry / Kyma / ABAP Environment" link="https://help.sap.com/products/BTP/65de2977205c403bbc107264b8eccf4b/9c7092c7b7ae4d49bc8ae35fdd0e0b18.html?version=Cloud" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-356">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1604" y="916" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="BTP Services&lt;br&gt;e.g. Build Apps, Process Automation" link="https://discovery-center.cloud.sap/viewServices" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-357">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1744" y="916" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-356" value="Cloud Foundry / Kyma / ABAP Environment" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1604" y="916" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-357" value="BTP Services&lt;br&gt;e.g. Build Apps, Process Automation" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1744" y="916" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-358" value="Classic ABAP" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="1284" y="916" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-359" value="ABAP Cloud" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="962.5" y="916" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="RAP-based OData" link="https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/289477a81eec4d4e84c0302fb6835035.html" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-360">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="962.5" y="1076" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="CAP-based OData / REST / GraphQL,&lt;br&gt;RAP-based OData" link="https://cap.cloud.sap/docs/" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-361">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1604" y="1076" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SEGW-based OData,&lt;br&gt;SOAP Service" link="https://help.sap.com/docs/ABAP_PLATFORM_NEW/68bf513362174d54b58cddec28794093/cddd22512c312314e10000000a44176d.html" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-362">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1284" y="1076" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="RFC-enabled&lt;br&gt;function module" link="https://help.sap.com/docs/abap-cloud/abap-integration-connectivity/create-remote-enabled-function-module-rfm?version=s4hana_cloud" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-364">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1424" y="1076" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Web API binding&lt;br&gt;with ABAP Cloud, HTTP Inbound Communication" link="https://help.sap.com/docs/btp/sap-business-technology-platform/apis-for-inbound-communication-http" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-366">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1104" y="1076" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Web API binding&lt;br&gt;with ABAP Cloud, HTTP Inbound Communication" link="https://help.sap.com/viewer/923180ddb98240829d935862025004d6/Cloud/en-US/1913ad9f52e64ab5858df00a8d20c4d6.html" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-367">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1741" y="1076" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SAP Flexible Workflow" link="https://help.sap.com/docs/ABAP_PLATFORM_NEW/a602ff71a47c441bb3000504ec938fea/22a178c7929e439bb062017eda1e3643.html" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-368">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="963" y="1318" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SAP Business Workflow" link="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/0f18dddf28764f5b807ecd80549044cc/22a178c7929e439bb062017eda1e3643.html?locale=en-US&amp;version=latest" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-369">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1284" y="1318" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SAP Build Process Automation" link="https://help.sap.com/viewer/product/PROCESS_AUTOMATION/Cloud/en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-370">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1604" y="1318" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="BRFplus" link="https://help.sap.com/docs/ABAP_PLATFORM_NEW/9d5c91746d2f48199bd465c3a4973b89/9a6b67ce7c26446483af079719edf679.html?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-371">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1104" y="1318" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SAP Job Scheduling Service" link="https://help.sap.com/docs/job-scheduling?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-372">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1604" y="1398" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Background Job Processing SM36" link="https://help.sap.com/doc/saphelp_nw75/7.5.5/en-US/4b/2b2954365474fee10000000a421937/content.htm?no_cache=true" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-373">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1284" y="1398" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Application Jobs" link="&quot;https://help.sap.com/docs/ABAP_PLATFORM_NEW/b5670aaaa2364a29935f40b16499972d/0837d1ea0b0b4d3892f66e8533b654cb.html?locale=en-US https://fioriappslibrary.hana.ondemand.com/sap/fix/externalViewer/#/detail/Apps(&#39;F1240&#39;)/S28OP&quot;" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-374">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="962.5" y="1398" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="HANA Cloud Job Scheduler / Kyma Background Job" link="https://developers.sap.com/tutorials/hana-cloud-automation-scheduling..html" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-375">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1744" y="1398" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Custom Fields App" link="https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/57909455bf7c4fdd8bcf48d76c1eae33.html?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-376">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="644" y="1478" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Data Model Extension" link="https://help.sap.com/docs/abap-cloud/abap-rap/enabling-database-tables?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-377">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="962.5" y="1478" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Customizing include /&lt;br&gt;Append structure" link="https://help.sap.com/doc/saphelp_nw73ehp1/7.31.19/en-US/cf/21eb54446011d189700000e8322d00/frameset.htm" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-378">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1283" y="1478" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Custom Table" link="https://help.sap.com/docs/BTP/923180ddb98240829d935862025004d6/56f6a1460fce40f9804f1d7948aa0721.html" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-379">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="962.5" y="1558" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Custom Business Object" link="https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/b45696ca0d9143cba040797e9c71aa44.html?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-381">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="644" y="1558" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SAP HANA Cloud&lt;br&gt;PostgreSQL&lt;br&gt;Redis&lt;br&gt;Object Store" link="https://help.sap.com/docs/HANA_CLOUD?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-382">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1604" y="1558" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-360" value="RAP-based OData" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="962.5" y="1076" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-361" value="CAP-based OData / REST / GraphQL,&lt;br&gt;RAP-based OData" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1604" y="1076" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-362" value="SEGW-based OData,&lt;br&gt;SOAP Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1284" y="1076" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-364" value="RFC-enabled&lt;br&gt;function module" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1424" y="1076" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-366" value="Web API binding&lt;br&gt;with ABAP Cloud, HTTP Inbound Communication" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1104" y="1076" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-367" value="Web API binding&lt;br&gt;with ABAP Cloud, HTTP Inbound Communication" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1741" y="1076" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-368" value="SAP Flexible Workflow" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="964" y="1318" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-369" value="SAP Business Workflow" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1284" y="1318" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-370" value="SAP Build Process Automation" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1604" y="1318" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-371" value="BRFplus" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1104" y="1318" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-372" value="SAP Job Scheduling Service" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1604" y="1398" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-373" value="Background Job Processing SM36" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1284" y="1398" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-374" value="Application Jobs" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="962.5" y="1398" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-375" value="HANA Cloud Job Scheduler / Kyma Background Job" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1744" y="1398" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-376" value="Custom Fields App" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="644" y="1478" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-377" value="Data Model Extension" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="962.5" y="1478" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-378" value="Customizing include /&lt;br&gt;Append structure" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1284" y="1478" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-379" value="Custom Table" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="962.5" y="1558" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-381" value="Custom Business Object" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="644" y="1558" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-382" value="SAP HANA Cloud&lt;br&gt;PostgreSQL&lt;br&gt;Redis&lt;br&gt;Object Store" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1604" y="1558" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-383" value="Adapt, create and consume events" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="400" y="1238" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="SAP Integration Suite" link="https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-384">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1604" y="1238" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Enterprise Event Enablement" link="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/810dfd34f2cc4f39aa8d946b5204fd9c/c200f98fadb64ff1828ed5696c86fca2.html?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-385">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="962.5" y="1238" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="CAP and RAP&lt;br&gt;on the BTP" link="https://cap.cloud.sap/docs/guides/messaging/" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-386">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1744" y="1238" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Emit/Consume event&lt;br&gt;using RAP" link="https://help.sap.com/doc/abapdocu_cp_index_htm/CLOUD/en-US/abenbdl_event.html" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-387">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1104" y="1238" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="SAP Integration Suite,&lt;br&gt;BTP Services e.g. Build Apps or BPA" link="https://help.sap.com/docs/integration-suite/sap-integration-suite/what-is-sap-integration-suite?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-388">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1604" y="1156" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-384" value="SAP Integration Suite" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1604" y="1238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-385" value="Enterprise Event Enablement" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="962.5" y="1238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-386" value="CAP and RAP&lt;br&gt;on the BTP" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1744" y="1238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-387" value="Emit/Consume event&lt;br&gt;using RAP" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1104" y="1238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-388" value="SAP Integration Suite,&lt;br&gt;BTP Services e.g. Build Apps or BPA" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1604" y="1156" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-389" value="Create" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="480" y="1076" width="120" height="60" as="geometry" />
         </mxCell>
@@ -550,16 +462,12 @@
         <mxCell id="K0xaSfkfl29_AA-YeCkV-393" value="OData consumption using CAP / RAP;&lt;br&gt;HTTP Outbound Communication" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="1741" y="1156" width="120" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="HTTP Outbound&lt;br&gt;Communication" link="https://help.sap.com/docs/abap-cloud/abap-integration-connectivity/outbound-communication-48d3624d9f7d47d7ab712d110cb02d77" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-395">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="964" y="1156" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="Consume &lt;br&gt;Tier 1 / Tier 2 Interfaces" link="https://api.sap.com/products/SAPS4HANA/overview" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-397">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1104" y="1156" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-395" value="HTTP Outbound&lt;br&gt;Communication" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="964" y="1156" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-397" value="Consume &lt;br&gt;Tier 1 / Tier 2 Interfaces" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1104" y="1156" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-398" value="Consume &lt;br&gt;Tier 3&lt;br&gt;Interfaces" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="1284" y="1156" width="120" height="60" as="geometry" />
         </mxCell>
@@ -587,16 +495,12 @@
             <mxPoint x="1118" y="476" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="Dynpro" link="https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/f68e489816e043f1add91d69a6842931/4a43fa285bc52baee10000000a421937.html?locale=en-US" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-336">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1284" y="436" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="WebDynpro" link="https://help.sap.com/saphelp_snc700_ehp01/helpdata/en/77/3545415ea6f523e10000000a155106/frameset.htm" linkTarget="_blank" id="K0xaSfkfl29_AA-YeCkV-337">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
-            <mxGeometry x="1424" y="436" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-336" value="Dynpro" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1284" y="436" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0xaSfkfl29_AA-YeCkV-337" value="WebDynpro" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
+          <mxGeometry x="1424" y="436" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="K0xaSfkfl29_AA-YeCkV-335" value="SAP Fiori App" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="K0xaSfkfl29_AA-YeCkV-260" vertex="1">
           <mxGeometry x="1604" y="436" width="120" height="60" as="geometry" />
         </mxCell>
@@ -720,13 +624,13 @@
         <mxCell id="LUtRHVbhyPieGY-RZNam-111" value="Custom Page based on the &lt;b&gt;FPM&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="LUtRHVbhyPieGY-RZNam-85" vertex="1">
           <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h3J-9eojVEcihAKL5c_I-1" value="Focus on Cloud Readiness" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=default;fillColor=none;strokeWidth=1.5;fontColor=default;fontStyle=1;fontSize=17;" parent="K0xaSfkfl29_AA-YeCkV-416" vertex="1">
+        <mxCell id="h3J-9eojVEcihAKL5c_I-1" value="Focus on Cloud Readiness" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=default;fillColor=none;strokeWidth=1.5;fontColor=default;fontStyle=1;fontSize=17;" vertex="1" parent="K0xaSfkfl29_AA-YeCkV-416">
           <mxGeometry x="90" y="-850" width="290" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="h3J-9eojVEcihAKL5c_I-2" value="Cloud Concept" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=default;fillColor=none;strokeWidth=1.5;fontColor=default;fontStyle=1;fontSize=17;" parent="K0xaSfkfl29_AA-YeCkV-416" vertex="1">
+        <mxCell id="h3J-9eojVEcihAKL5c_I-2" value="Cloud Concept" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=default;fillColor=none;strokeWidth=1.5;fontColor=default;fontStyle=1;fontSize=17;" vertex="1" parent="K0xaSfkfl29_AA-YeCkV-416">
           <mxGeometry x="90" y="-910" width="290" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="h3J-9eojVEcihAKL5c_I-3" value="Baseline - &lt;br&gt;Handling of Classic Objects" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=default;fillColor=none;strokeWidth=1.5;fontColor=default;fontStyle=1;fontSize=17;" parent="K0xaSfkfl29_AA-YeCkV-416" vertex="1">
+        <mxCell id="h3J-9eojVEcihAKL5c_I-3" value="Baseline - &lt;br&gt;Handling of Classic Objects" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=default;fillColor=none;strokeWidth=1.5;fontColor=default;fontStyle=1;fontSize=17;" vertex="1" parent="K0xaSfkfl29_AA-YeCkV-416">
           <mxGeometry x="90" y="-970" width="290" height="46" as="geometry" />
         </mxCell>
         <object label="Conceptual Content" id="UCTJfK6FL2X2yHmTDqah-330">
